@@ -1,0 +1,4 @@
+there are two python files. freez to graph has all the preparing methods and you don't need to use them. 
+all you need is in image transform in image_transform function. it gets the image and style it. you just need to pick a style and the intensity of the style
+there are a lot of filters prepared at the filters folder
+pick the folder name and call it in the mage_transform function and you are all done
